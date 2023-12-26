@@ -1,0 +1,4 @@
+org\sftp\input\SftpConfig.class
+org\sftp\input\Sftp_Remote_to_Host.class
+org\sftp\input\Sftp_Host_to_Remote.class
+org\sftp\input\SftpFileDownload.class
